@@ -2,8 +2,8 @@
 
 ![banner image with webshuriken logo and flying shurikens](webshuriken-banner-2024-2.png)
 
-This repo started with my curiousity about the GitHub Skills interactive courses, which I loved! :computer:
-I will continue to learn, grow and keep pushing my limits.
+This repo was born when I ran into the GitHub Skills interactive courses. It grabbed my curiosity and off I went.
+I will make sure to keep the momentum and carry on learning, growing, and pushing my limits.
 
 ## Socials :handshake:
 
