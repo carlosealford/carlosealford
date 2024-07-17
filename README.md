@@ -11,7 +11,7 @@ Quick links to my digital platforms.
 
 <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /> <a href="https://www.linkedin.com/in/carlos-e-alford/" target="_blank">Linkedin</a>: For a formal approach, come and connect with me over at Linkedin.
 
-<img width="32" style="background-color: white" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" /> <a href="https://github.com/webshuriken" target="_blank">GitHub webshuriken</a>: Come checkout my bigger projects, have a look at my repositories, clone, fork or lets collaborate.
+<img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" /> <a href="https://github.com/webshuriken" target="_blank">GitHub webshuriken</a>: Come checkout my bigger projects, have a look at my repositories, clone, fork or lets collaborate.
 
 <img width="32" src="./ceam-logo-trans-3d.png" /> <a href="https://carlosealford.com" target="_blank">Portfolio</a>: You want to see something cool? then I think you will like my portfolio. It was fun to create.
 
