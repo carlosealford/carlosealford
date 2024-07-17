@@ -1,5 +1,7 @@
 ## Front-end developer
 
+![banner image with webshuriken logo and flying shurikens](webshuriken-banner-2024-2.png)
+
 This repo started with my curiousity about the GitHub Skills interactive courses, which I loved! :computer:
 I will continue to learn, grow and keep pushing my limits.
 
