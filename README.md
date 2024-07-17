@@ -3,7 +3,7 @@
 ![banner image with webshuriken logo and flying shurikens](webshuriken-banner-2024-2.png)
 
 This repo was born when I ran into the GitHub Skills interactive courses. It grabbed my curiosity and off I went.
-I will make sure to keep the momentum and carry on learning, growing, and pushing my limits.
+I will make sure to keep the momentum, carry on learning, growing, and pushing my limits.
 
 ## Socials :handshake:
 
