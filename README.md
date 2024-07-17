@@ -10,3 +10,9 @@ I will continue to learn, grow and keep pushing my limits.
 - [Linkedin](https://www.linkedin.com/in/carlos-e-alford/)
 - [Portfolio](https://carlosealford.com)
 - [A blog](https://github.com/carlosealford)
+
+## Projects tech stats
+
+<p align="center">
+  <img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosealford&&layout=compact&custom_title=Languages" />
+</p>
