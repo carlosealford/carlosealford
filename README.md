@@ -3,11 +3,11 @@
 ![banner image with webshuriken logo and flying shurikens](webshuriken-banner-2024-2.png)
 
 This repo was born when I ran into the GitHub Skills interactive courses. It grabbed my curiosity and off I went.
-I will make sure to keep the momentum, carry on learning, growing, and pushing my limits.
+It is important to keep the momentum, carry on learning, growing, and pushing my limits.
 
 ## Socials :handshake:
 
-Quick links to my digital platforms.
+Quick links to my digital platforms where you can find me by my name `Carlos E Alford` or my handle `WebShuriken`.
 
 <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /> <a href="https://www.linkedin.com/in/carlos-e-alford/" target="_blank">Linkedin</a>: For a formal approach, come and connect with me over at Linkedin.
 
