@@ -23,7 +23,7 @@ These sites are being build. They will go live by the end of July 2024
 
 <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jekyll/jekyll-original.svg" /> <a href="https://carlosealford.com" target="_blank">Repo  Blog</a>: A small blog about my learning journey. It's all the highlights of my experience including mistakes.
 
-<img height="32" src="./devdotto.svg" /> <a href="https://dev.to/webshuriken" target="_blank">Dev Blog</a>: This is all about technologies I have worked with, whether it was a solo project or group one. I want to share what I have learned along the way.
+<img height="32" src="./devdotto.svg" /> <a href="https://dev.to/webshuriken" target="_blank">Dev Blog</a>: This is all about technologies I have worked with, whether it was a solo project or group one.
 
 ## My GitHub stats :bar_chart:
 
