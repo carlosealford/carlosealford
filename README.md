@@ -1,6 +1,6 @@
 ## Front-end developer
 
-![banner image with webshuriken logo and flying shurikens](webshuriken-banner-2024-2.png)
+![banner image with webshuriken logo and flying shurikens](webshuriken-banner-2024-3.png)
 
 This repo was born when I ran into the GitHub Skills interactive courses. It grabbed my curiosity and off I went.
 It is important to keep the momentum, carry on learning, growing, and pushing my limits.
