@@ -19,7 +19,7 @@ Quick links to my digital platforms where you can find me by my name `Carlos E A
 
 ### Under construction :hammer:
 
-These sites are being build. They will go live by the end of July 2024
+These sites are being build. They will go live by the end of July 2025
 
 <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jekyll/jekyll-original.svg" /> <a href="https://carlosealford.com" target="_blank">Repo  Blog</a>: A small blog about my learning journey. It's all the highlights of my experience including mistakes.
 
